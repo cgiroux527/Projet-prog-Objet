@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "bye bye, World!" << std::endl;
+    std::cout << "I hate choclates peoples" << std::endl;
 
     return 0;
 }
